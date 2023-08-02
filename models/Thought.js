@@ -19,4 +19,4 @@ const thoughtSchema = new Schema({
     reactions: [Reaction]
 });
 
-modult.exports = thoughtSchema;
+module.exports = thoughtSchema;
